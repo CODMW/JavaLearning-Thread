@@ -1,7 +1,7 @@
 package com.deadlockdemo;
 
 /*
-死锁。
+死锁。.
 同步中嵌套同步而锁不同。
 * */
 public class DeadLock {
