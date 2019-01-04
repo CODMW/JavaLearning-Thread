@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankDemo/BankDemo.iml" filepath="$PROJECT_DIR$/BankDemo/BankDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLock/DeadLock.iml" filepath="$PROJECT_DIR$/DeadLock/DeadLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLearning-Thread.iml" filepath="$PROJECT_DIR$/JavaLearning-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducerAndConsumerDemo/ProducerAndConsumerDemo.iml" filepath="$PROJECT_DIR$/ProducerAndConsumerDemo/ProducerAndConsumerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonDemo/SingletonDemo.iml" filepath="$PROJECT_DIR$/SingletonDemo/SingletonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StopThread/StopThread.iml" filepath="$PROJECT_DIR$/StopThread/StopThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadProject/ThreadProject.iml" filepath="$PROJECT_DIR$/ThreadProject/ThreadProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicketDemo/TicketDemo.iml" filepath="$PROJECT_DIR$/TicketDemo/TicketDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicketDemoRunnable/TicketDemoRunnable.iml" filepath="$PROJECT_DIR$/TicketDemoRunnable/TicketDemoRunnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inter-thread-communication-demo/inter-thread-communication-demo.iml" filepath="$PROJECT_DIR$/inter-thread-communication-demo/inter-thread-communication-demo.iml" />
+    </modules>
+  </component>
+</project>
